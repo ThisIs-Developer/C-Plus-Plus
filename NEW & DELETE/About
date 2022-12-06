@@ -1,0 +1,14 @@
+new operator
+The new operator denotes a request for memory allocation on the Free Store. If sufficient memory is available, a new operator initializes the memory and returns the address of the newly allocated and initialized memory to the pointer variable. 
+
+Syntax to use new operator
+
+pointer-variable = new data-type;
+
+
+delete operator
+Since it is the programmer’s responsibility to deallocate dynamically allocated memory, programmers are provided delete operator in C++ language. 
+Syntax: 
+
+// Release memory pointed by pointer-variable
+delete pointer-variable;
