@@ -1,0 +1,1 @@
+Recursion is a method in C++ which calls itself directly or indirectly until a suitable condition is met. In this method, we repeatedly call the function within the same function, and it has a base case and a recursive condition.
