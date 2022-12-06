@@ -1,0 +1,1 @@
+The C++ for loop is used to iterate a part of the program several times. If the number of iteration is fixed, it is recommended to use for loop than while or do-while loops. The C++ for loop is same as C/C#. We can initialize variable, check condition and increment/decrement value.
