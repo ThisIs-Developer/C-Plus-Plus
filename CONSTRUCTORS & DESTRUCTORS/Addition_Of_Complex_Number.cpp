@@ -6,27 +6,27 @@ class complex
 		int real;
 		int imag; 
 	public:	
-	initialize()
-	{
-		real=0;
-		imag=0;
-	} 
-	    void input()
+		initialize()
 		{
-	    	cout<<"Enter complex no's real and imaginary part = "<<endl;
-	        cin>>real>>imag;
+			real=0;
+			imag=0;
+		}
+	    	void input()
+		{
+	    		cout<<"Enter complex no's real and imaginary part = "<<endl;
+	       		cin>>real>>imag;
 		}   
-	    complex sum(complex s)
+	    	complex sum(complex s)
 		{
-	    	complex temp;
+	    		complex temp;
 			temp.real= real+s.real;
 			temp.imag=imag+s.imag;
 			return temp;	
 		}
-	void display()
-	{
-		cout<<real<<"+"<<imag<<"i"<<endl;
-	}
+		void display()
+		{
+			cout<<real<<"+"<<imag<<"i"<<endl;
+		}
 };
 int main()
 {
