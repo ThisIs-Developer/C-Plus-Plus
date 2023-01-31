@@ -3,7 +3,7 @@
 
 C++ is a general-purpose programming language and is widely used nowadays for competitive programming. It has imperative, object-oriented and generic programming features. C++ runs on lots of platforms like Windows, Linux, Unix, Mac etc.
 
-![ISO_C++_Logo svg](https://user-images.githubusercontent.com/109382325/215765870-f6e22c54-8a0d-40a9-b02a-781078c75fcc.jpg)
+![74897](https://user-images.githubusercontent.com/109382325/215766036-07eb7fbf-539f-411c-964a-1c56841bc53b.jpg)
 
 
 ## Author
